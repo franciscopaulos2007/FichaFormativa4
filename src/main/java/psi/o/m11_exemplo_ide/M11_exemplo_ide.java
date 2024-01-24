@@ -8,7 +8,9 @@ public class M11_exemplo_ide {
         for (i = 1; i <= 1000; i++) {
             k = k + i;
         }
-
+        //ola pessoal
+        //ola bom dia
+        
         k = k / 2;
         j = i;
 
